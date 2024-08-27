@@ -1,3 +1,21 @@
 {
-	"name": "OMC.URPShaderLibrary.Editor"
+    "name": "OMC.URPShaderLibrary.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:800597811bcc5d848b15e12807d6de45",
+        "GUID:bd6f7e3ec622d1444bbb205e750a56c8",
+        "GUID:d84ef6346ab5ec946b23348e5aed2771",
+        "GUID:832a8ef6e615e9a41a5076e1c9a43782",
+        "GUID:d87af21afaaf27f45b873a9ab462bcbb",
+        "GUID:847b179520b009e4c8d15c296b1cbf35"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
